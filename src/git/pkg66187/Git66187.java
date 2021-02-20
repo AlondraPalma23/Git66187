@@ -20,6 +20,8 @@ public class Git66187 {
         System.out.println(" Soy "  + nombre +  " y mi matricula es: "  + matricula);
         
         int numero =  23;
+        int saldo = 3000;  
+        int edad = 19;
     }
     
 }
